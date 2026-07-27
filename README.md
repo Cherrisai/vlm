@@ -4,7 +4,6 @@ A production-quality Vision Language Model (VLM) workspace built with Streamlit,
 **OpenAI CLIP** (embedding-based similarity, matching, and retrieval) and **LLaVA** (open-ended
 visual reasoning, captioning, question answering, and OCR) into a single, modular application.
 
-Copyright (c) Saivignesh
 
 ---
 
