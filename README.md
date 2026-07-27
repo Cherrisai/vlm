@@ -139,10 +139,6 @@ These can also be changed at runtime from the in-app Settings page.
 
 No additional configuration files are required beyond what is included in this repository.
 
-## Screenshots
-
-_Add screenshots of the Dashboard, Image Similarity, Visual QA, and Analytics pages here before
-publishing to GitHub or Hugging Face Spaces._
 
 ## Future Improvements
 
