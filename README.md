@@ -154,7 +154,7 @@ publishing to GitHub or Hugging Face Spaces._
 
 ## License
 
-This project is provided for educational and portfolio purposes.
+
 
 ## Author
 
